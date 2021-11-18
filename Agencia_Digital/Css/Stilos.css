@@ -1,0 +1,29 @@
+/*  */
+body{
+    font-size: 1.3rem;
+
+}
+.fondo-nav{
+    background: #000 !important; 
+}
+
+#inicio{
+    background: url("../Img/adults-analysis-banking-1451447.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron{
+    width: 100%;
+    height: 700px;
+    background: rgba(0,0,0,0.8);
+    color: white;
+    padding-top: 450px;
+
+}
+#llamado-accion{
+    background: #21f3f9
+}
+footer{
+    background: rgba(192, 32, 112, 0.267)
+}
